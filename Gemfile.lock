@@ -258,7 +258,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bundler (~> 2.1.4)
+  bundler (~> 1.12)
   github-pages
   jekyll (~> 3.3)
   jekyll-remote-theme
@@ -266,5 +266,8 @@ DEPENDENCIES
   kramdown-parser-gfm
   rake
 
+RUBY VERSION
+   ruby 2.6.6p146
+
 BUNDLED WITH
-   2.1.4
+   1.17.2
